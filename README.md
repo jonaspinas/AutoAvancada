@@ -1,4 +1,7 @@
 # Advanced Automation Project Structure
+João Gama 102863
+Miguel Alexandre 107179
+João Pina 102725
 
 *A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/))*
 
